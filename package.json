@@ -1,5 +1,13 @@
 {
+  "name": "hive-js-socket",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
+    "bash-color": "^0.0.4",
+    "chalk": "^5.2.0",
     "ws": "^8.12.0"
   }
 }
